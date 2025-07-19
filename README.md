@@ -85,6 +85,4 @@ Integrate with Route 53 for custom domain
 
 ✅ AWS Deployment
 
-✅ GitHub README.md documentation
-
 ✅ Optional: Terraform/IaC automation
